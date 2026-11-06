@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "year": 1967
+    },
+    {
+      "title": "Harry Potter y la piedra filosofal",
+      "author": "J.K. Rowling",
+      "year": 1997,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "El principito",
+      "author": "Antoine de Saint-Exupéry",
+      "year": 1943
+    },
+    {
+      "title": "Metamorfosis",
+      "author": "Franz Kafka",
+      "year": 1915,
+      "id": "4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
